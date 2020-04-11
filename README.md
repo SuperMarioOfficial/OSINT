@@ -1,5 +1,10 @@
 # OSINT
 
+## Main tools 
+- https://yoga.osint.ninja/
+- https://osintframework.com/
+
+## Tracelabs CTF steps
 1. Review Trace Labs Missing CTF training video(s)
 
     View our Contestant training video here: https://www.youtube.com/watch?v=2DR7cOqy0c4
